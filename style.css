@@ -85,6 +85,11 @@ th {
 
 }
 
+.img  {
+
+cursor: pointer;
+}
+
 
 .gallery:hover {
     color: orange;
