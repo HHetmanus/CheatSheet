@@ -86,7 +86,7 @@ footer {
 .gallery {
     margin-left: 50px;
     margin-top: 25px;
-    display: inline;
+    display: inline-block;
     text-align: center;
     align-items: center;
     
