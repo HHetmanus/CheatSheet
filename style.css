@@ -24,7 +24,7 @@ header {
     border-radius: 20px;
     box-shadow: 0px 4px;
     border: 2px solid darkorchid;
-    width: 100x%;
+    width: 100%;
 
 }
 .logo {
@@ -78,6 +78,7 @@ th {
 .gallery {
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
     
    
 
@@ -97,26 +98,16 @@ th {
   margin: 20px;
 } */
 
-/* figcaption {
-  background-color: black;
-  color: white;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-} */
+
 
 div figure {
-    margin: 40px 125px 20px 125px;
+    margin: 40px 125px 0px 125px;
     float: left;
     
     
   }
 
 
-  /* figure img {
-    width: 100%;
-    height: auto;
-  } */
 
   div figcaption {
     background-color: black;
