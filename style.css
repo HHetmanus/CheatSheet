@@ -87,7 +87,7 @@ th {
 }
 
 div figure {
- float: left;
+ display: inline;
   margin: 5px;
 }
 
