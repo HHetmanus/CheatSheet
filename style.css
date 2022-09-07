@@ -125,15 +125,7 @@ div figure {
     padding: 15px;
     text-align: center;
   }
-
-div footer {
-  
-  margin-top: 20px;
-  width: 100%;
-  text-align: center;
-  padding: 2px;
-  background-color: DarkSalmon;
-  color: white;
-  
-
+footer {
+text-align: center;
 }
+  
