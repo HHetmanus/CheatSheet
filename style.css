@@ -84,9 +84,7 @@ footer {
 }
 
 .gallery {
-    margin-left: 50px;
-    margin-top: 25px;
-    display: inline;
+   
     text-align: center;
     
     
@@ -98,17 +96,15 @@ footer {
     cursor: pointer;
 }
 
-figure {
-  width:220px;
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: 20px;
+div figure {
+ float: left;
+  margin: 5px;
 }
 
-figcaption {
+div figcaption {
   background-color: black;
   color: white;
   font-style: italic;
-  padding: 2px;
+  padding: 15px;
   text-align: center;
 }
