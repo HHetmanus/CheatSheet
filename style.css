@@ -91,12 +91,6 @@ th {
     cursor: pointer;
 }
 
-/* figure {
-  width:220px;
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: 20px;
-} */
 
 
 
@@ -113,7 +107,7 @@ div figure {
     background-color: black;
     color: white;
     font-style: italic;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
   }
 footer {
