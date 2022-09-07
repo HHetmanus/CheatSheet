@@ -93,10 +93,7 @@ footer {
     
 }
 
-.img {
-    padding: 25px;
-    margin-left: 85px;
-}
+
 .gallery:hover {
     color: orange;
     cursor: pointer;
