@@ -125,4 +125,7 @@ div figure {
     padding: 15px;
     text-align: center;
   }
-
+footer {
+position:fixed;
+bottom: 0;
+}
