@@ -119,7 +119,7 @@ div figure {
 footer {
 position:fixed;
 width: 100%;
-height: 30px;  
+margin-top: 20px;
 text-align: center;
 bottom: 0;
 color: white;
