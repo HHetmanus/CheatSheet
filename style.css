@@ -5,6 +5,10 @@ h1:hover {
     color: orange;
     cursor: pointer;
 }
+
+h3 {
+  text-align: center;
+}
 header {
     
     font-family: Halvetica;
